@@ -767,7 +767,7 @@ export default function PackagePage({
                     <circle cx="12" cy="10" r="3"></circle>
                   </svg>
                   <span className="text-white/80">
-                    1572,sector 24, Panipat, Haryana, India, 132103
+                    1572, Sector 24, Panipat, Haryana, India, 132103
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
